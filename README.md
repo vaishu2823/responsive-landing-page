@@ -1,25 +1,24 @@
-Responsive Landing Page
-A simple, clean, and fully responsive Landing Page built using HTML and CSS.
-This project includes a Header, Hero Section, and Footer — perfect for beginners learning web development.
+# Responsive Landing Page
 
-📌 Project Overview
+A simple, clean, and responsive landing page built using **HTML** and **CSS**. This project includes a header, hero section, and footer, and is fully responsive across devices.
 
-This project is a part of a learning task where the objective is to design a responsive landing page using basic HTML & CSS. It includes:
-✔️ Header with navigation
-✔️ Hero section with background image
-✔️ Call-to-action button
-✔️ Simple footer
-✔️ Fully responsive layout for mobile & desktop
+## 📌 Features
+- Fully responsive layout
+- Clean and simple design
+- Includes:
+  - Header with navigation
+  - Hero section
+  - Footer
+- Works on all browsers
 
-🛠️ Technologies Used
-HTML
-CSS
-VS Code 
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- VS Code + Live Server (for preview)
 
-📂 Project Structure
-
-responsive-landing-page/
+## 📂 Project Structure
+```
+project-folder/
 │
 ├── index.html
-├── style.css
-└── README.md
+└── style.css
